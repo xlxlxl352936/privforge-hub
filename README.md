@@ -39,7 +39,7 @@ It allows you to wirelessly transfer, stream, and process videos/audio/images be
 ### Option B: Run from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/privforge-hub.git
+git clone https://github.com/xlxlxl352936/privforge-hub.git
 cd privforge-hub
 python -m venv venv
 venv\Scripts\activate
